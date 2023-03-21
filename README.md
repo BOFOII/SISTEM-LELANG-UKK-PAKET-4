@@ -1,6 +1,10 @@
 Harap cantumkan nama pembuat untuk menghargai.
+
+
 Jangan lupa tag ig : @bofoiii._
+
 Instagram : https://instagram.com/bofoiii._
+ 
 Facebook : https://www.facebook.com/profile.php?id=100074494745358
 
 SILAHKAN BACA DOKUMENTASI DAN LAPORAN PADA FOLDER LAPORAN UNTUK MELIHAT DETAIL
@@ -64,7 +68,6 @@ DOKUMENTASI PENGGUNAAN SEBAGAI ADMIN
 
 ![](dokumentasi/media/image10.png)
 
-6.  Anda juga bias menambahkan petugas/admin baru
+6.  Anda juga bias menambahkan "petugas/admin" baru
 
-![](dokumentasi/media/image11.png){width="5.544444444444444in"
-height="3.0631944444444446in"}
+![](dokumentasi/media/image11.png)
